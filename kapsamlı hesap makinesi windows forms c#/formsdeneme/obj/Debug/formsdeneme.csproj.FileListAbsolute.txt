@@ -1,0 +1,16 @@
+C:\Users\Xmsı\Desktop\formsdeneme\formsdeneme\obj\Debug\formsdeneme.csproj.AssemblyReference.cache
+C:\Users\Xmsı\Desktop\formsdeneme\formsdeneme\obj\Debug\formsdeneme.Form1.resources
+C:\Users\Xmsı\Desktop\formsdeneme\formsdeneme\obj\Debug\formsdeneme.Properties.Resources.resources
+C:\Users\Xmsı\Desktop\formsdeneme\formsdeneme\obj\Debug\formsdeneme.csproj.GenerateResource.cache
+C:\Users\Xmsı\Desktop\formsdeneme\formsdeneme\obj\Debug\formsdeneme.csproj.CoreCompileInputs.cache
+C:\Users\Xmsı\Desktop\formsdeneme\formsdeneme\bin\Debug\formsdeneme.exe.config
+C:\Users\Xmsı\Desktop\formsdeneme\formsdeneme\bin\Debug\formsdeneme.exe
+C:\Users\Xmsı\Desktop\formsdeneme\formsdeneme\bin\Debug\formsdeneme.pdb
+C:\Users\Xmsı\Desktop\formsdeneme\formsdeneme\obj\Debug\formsdeneme.exe
+C:\Users\Xmsı\Desktop\formsdeneme\formsdeneme\obj\Debug\formsdeneme.pdb
+C:\Users\Xmsı\Desktop\formsdeneme\formsdeneme\obj\Debug\formsdeneme.Form2.resources
+C:\Users\Xmsı\Desktop\formsdeneme\formsdeneme\obj\Debug\formsdeneme.Form3.resources
+C:\Users\Xmsı\Desktop\formsdeneme\formsdeneme\obj\Debug\formsdeneme.Diferansiyel_Denklemler.resources
+C:\Users\Xmsı\Desktop\formsdeneme\formsdeneme\obj\Debug\formsdeneme.Sayısal_Yöntemler.resources
+C:\Users\Xmsı\Desktop\formsdeneme\formsdeneme\obj\Debug\formsdeneme.İntegral_Türev.resources
+C:\Users\Xmsı\Desktop\formsdeneme\formsdeneme\obj\Debug\formsdeneme.exe.config
